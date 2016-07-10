@@ -1,0 +1,13 @@
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\bin\Release\Performance Grapher.exe.config
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\bin\Release\Performance Grapher.exe.manifest
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\bin\Release\Performance Grapher.application
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\bin\Release\Performance Grapher.exe
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\bin\Release\Performance Grapher.pdb
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\obj\Release\Performance Grapher.csproj.GenerateResource.Cache
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\obj\Release\Performance Grapher.exe.manifest
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\obj\Release\Performance Grapher.application
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\obj\Release\Performance Grapher.exe
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\obj\Release\Performance Grapher.pdb
+K:\com sci 301\blargh\IA C#\PerformanceGraph\WindowsFormsApplication1\obj\Release\Performance Grapher.csprojResolveAssemblyReference.cache

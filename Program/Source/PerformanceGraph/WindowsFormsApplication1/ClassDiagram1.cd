@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.Data">
+    <Position X="14" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAIEQAAAiAgAAAAAAAACAACQGAAEJAAACAAAAAAQ=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Snapshot" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Program">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Form1" Type="WindowsFormsApplication1.Form1">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.219" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Form1">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAAAACAAAACIAAIAAAAAAQAAAABBAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LoadGraph" />
+      <Property Name="Realtime" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApplication1.ComboboxGraph">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEywAAQAIAEARQBOAJBAAECAABAC0wAAAAAICASIBAA=</HashCode>
+      <FileName>ComboboxGraph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.ComboboxMain">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCCCAAAIQiHAAAQABQQAAAAgBACCADAAAAAQAQAAA=</HashCode>
+      <FileName>ComboboxMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.LoadGraph">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAASAAAAgAAAQAAIIAAAAQAAIQAAAFkAEAAAAEAI=</HashCode>
+      <FileName>LoadGraph.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ComboboxGraph" />
+      <Property Name="ComboboxMain" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Realtime">
+    <Position X="11.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQgggAICAQDAJAAEECABDACaZkDAAgMABYwAAI=</HashCode>
+      <FileName>Realtime.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Data" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Snapshot">
+    <Position X="16.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAIACAAAAAAAAAAAAACACAAAAIAAIAAAAEARAA=</HashCode>
+      <FileName>Snapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
